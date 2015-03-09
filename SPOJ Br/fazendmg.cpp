@@ -17,7 +17,7 @@ void pinta(int x, int y, int l, int c)
 {
 	for(int i = x; i < x + l; i++)
 	for(int j = y; j < y + c; j++)
-			terreno[i][j] = true;
+			terreno[i][j] = true;		
 }
 
 void peri(int x, int y)
