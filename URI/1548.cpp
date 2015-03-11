@@ -26,6 +26,7 @@ int main()
 		rep(i, n)
 		{
 			pii davez = fila.top();	fila.pop();
+			printf("%d %d\n", davez.first, davez.second);
 			if(davez.second == i)
 				cont++;
 		}
