@@ -1,3 +1,8 @@
+/**
+	Questao inacabada
+	Solução por dp incorreta
+	**/
+
 #include <cstdio>
 
 #define MAXN 50005
