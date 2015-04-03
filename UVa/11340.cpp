@@ -21,7 +21,7 @@ int main()
 		int c;	scanf("%d\n", &c);
 		double resp = 0.0;
 		for(int i = 1; i <= c; i++)
-		{
+		{	
 			char ch;
 			do
 			{
