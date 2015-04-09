@@ -1,3 +1,3 @@
 # Maratona
 
-This is my public repository to added my solutions to programming competitions problems
+This is my public repository to add my solutions to programming competitions problems
